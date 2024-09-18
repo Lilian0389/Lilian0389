@@ -1,4 +1,4 @@
-[![MasterHead](https://www.shutterstock.com/image-vector/data-science-banner-web-icon-260nw-1567366987.jpg)](https://rishavchanda.io)
+![MasterHead](https://www.shutterstock.com/image-vector/data-science-banner-web-icon-260nw-1567366987.jpg)
 <h1 align="center">Hi 👋, I'm Lilian Davila</h1>
 <h3 align="center">"Junior data scientist with experience in Python programming, data analysis, and statistical methods. Passionate about using data to gain valuable insights."</h3>
 
