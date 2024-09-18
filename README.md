@@ -2,7 +2,6 @@
 <h1 align="center">Hi 👋, I'm Lilian Davila</h1>
 <h3 align="center">"Junior data scientist with experience in Python programming, data analysis, and statistical methods. Passionate about using data to gain valuable insights."</h3>
 
-
 - 🌱 I’m currently learning **new techniques in machine learning**
 
 - 👯 I’m looking to collaborate on **data-driven projects, especially those that involve machine learning and AI.**
